@@ -5,7 +5,7 @@ library(DBI)
 cat("✅ DBI loaded\n")
 library(RPostgres)
 cat("✅ RPostgres loaded\n")
-library(tidyverse) # LOCAL CHANGE - DO NOT MERGE
+library(tidyverse) # Resolved conflict - both changes considered
 cat("✅ tidyverse loaded\n")
 library(httr2)
 cat("✅ httr2 loaded\n")
