@@ -5,7 +5,7 @@ library(DBI)
 cat("✅ DBI loaded\n")
 library(RPostgres)
 cat("✅ RPostgres loaded\n")
-library(tidyverse)
+library(tidyverse) # Often used in data science
 cat("✅ tidyverse loaded\n")
 library(httr2)
 cat("✅ httr2 loaded\n")
